@@ -1,11 +1,16 @@
 _repo: Condition-of-the-American-Colored-Population-and-of-the-Colony-at-Liberia_58570
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 58570-h/images/cover.jpg
 creator:
   author:
     agent_name: Society, American Colonization
     gutenberg_agent_id: '50033'
     url: http://www.gutenberg.org/2009/agents/50033
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58570#Condition-of-the-American-Colored-Population-and-of-the-Colony-at-Liberia
 gutenberg_issued: '2018-12-30'
 gutenberg_type: Text
 identifiers:
